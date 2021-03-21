@@ -12,3 +12,5 @@
 <img src="https://github.com/shelcylab/Online-Food-Ordering-System-_-using-php/Res.jpg/export.gif?raw=true"
      alt="Easily exportable visualization object"
      style="width:600px" />
+     
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lux_api?label=%40lux_api&style=social" alt='Twitter' align="center"/>
