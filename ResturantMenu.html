@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+ <link rel="stylesheet" type="text/css" href="menuitem.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<form action="order1.php" method="post" >
+
+<h1><i><b>Meal Planner!!</b></i></h1>
+<div class="row">
+  <div class="column">
+    <div class="card">
+	
+	    <h3>Main Course</h3>
+        <input type="radio" name="main" value="ham">Hamburger-$6.25<br>
+        <input type="radio" name="main" value="pizza">Pizza-$5.95<br>
+		<input type="radio" name="main" value="salad">Salad-$4.95<br>
+        <input type="radio" name="main" value="sausage">Sausage Sandwich-$10.20<br>
+		<input type="radio" name="main" value="bf">Grilled Breakfast Wrap-$12.45<br>
+		<input type="radio" name="main" value="donut">Apple Fritter Donuts-$5.50<br>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <h3>Add-on items($.75/each)</h3>
+      <input type="checkbox" name='item[]' value="Lettuce, tomato, and onions-$.75">Lettuce, tomato, and onions<br>
+      <input type="checkbox" name='item[]' value="Ketchup, mustard, and mayo-$.75">Ketchup, mustard, and mayo<br>
+      <input type="checkbox" name='item[]' value="French fries-$.75">French fries<br>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>Drinks($1.50/each)</h3>
+	  <input type="checkbox" name='drinks[]' value="Pop Cans-$1.50">Pop Cans<br>
+      <input type="checkbox" name='drinks[]' value="Bottled Drink-$1.50">Bottled Drinks<br>
+      <input type="checkbox" name='drinks[]' value="Chocolate Milk-$1.50">Chocolate Milk<br>
+	  <input type="checkbox" name='drinks[]' value="Laban-$1.50">Laban<br>
+    </div>
+  </div>
+
+  
+
+</div>
+
+<br>
+
+    <div class="card2">
+	<h3>Tips</h3>
+      <input type="text" name="tips[]" list="tipsList">
+      <datalist id="tipsList">
+       <option value="10%">  
+       <option value="15%">
+	   <option value="20%">
+      </datalist>
+    </div>
+	
+<input type="submit" class="button" value="Place Order">
+
+</form>
+
+</body>
+</html>
