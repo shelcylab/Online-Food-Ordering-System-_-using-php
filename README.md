@@ -6,11 +6,6 @@
 1. Used checkboxes, radio buttons, drop down, buttons etc
 2. Calculate the selected items
 3. Display the total amount
-
-![Alt text](/Users/shelc/Downloads/N01450487_A2 (1)/WEB_A2/Res "Optional Title")
-
-<img src="https://github.com/shelcylab/Online-Food-Ordering-System-_-using-php/Res.jpg/export.gif?raw=true"
-     alt="Easily exportable visualization object"
-     style="width:600px" />
+![GitHub Logo](/Res.jpg)
+Format: ![Alt Text](url)
      
-        <img alt="Twitter Follow" src="https://www.cntraveler.com/gallery/best-restaurants-in-toronto" alt='Twitter' align="center"/>
