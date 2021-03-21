@@ -1,6 +1,6 @@
 # Shelcy Shaji Thekkedathu
-# Software Developer
-# Canada
+Software Developer
+Canada
 
 # Task : Create a simple online app to order food
 1. Used checkboxes, radio buttons, drop down, buttons etc
