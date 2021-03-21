@@ -13,4 +13,4 @@
      alt="Easily exportable visualization object"
      style="width:600px" />
      
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lux_api?label=%40lux_api&style=social" alt='Twitter' align="center"/>
+        <img alt="Twitter Follow" src="https://www.cntraveler.com/gallery/best-restaurants-in-toronto" alt='Twitter' align="center"/>
