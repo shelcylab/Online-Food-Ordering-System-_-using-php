@@ -8,3 +8,7 @@
 3. Display the total amount
 
 ![Alt text](/Users/shelc/Downloads/N01450487_A2 (1)/WEB_A2/Res "Optional Title")
+
+<img src="https://github.com/shelcylab/Online-Food-Ordering-System-_-using-php/blob/master/Res.jpg/export.gif?raw=true"
+     alt="Easily exportable visualization object"
+     style="width:600px" />
